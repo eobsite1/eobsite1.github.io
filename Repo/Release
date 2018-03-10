@@ -1,9 +1,8 @@
-Origin: eobsite1
-Label: EOBSITE1 PERSONAL REPO
+Origin: Tutorial Repository
+Label: Tutorial Repository
 Suite: stable
 Version: 1.0
-Codename: eobsite1repo
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: My personal repo
-
+Description: This is a tutorial repository created by /u/WinneonSword! rawr
