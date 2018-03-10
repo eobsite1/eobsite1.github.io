@@ -3,10 +3,10 @@ Name: TweakName
 Version: 0.0
 Architecture: iphoneos-arm
 Description: 
-Repo: http://notexe.github.io/repo/
-Homepage: http://notexe.github.io/repo/
-Maintainer: Notex <joshuadodd1107@gmail.com>
-Author: Notex <joshuadodd1107@gmail.com>
+Repo: http://eobsite1.github.io/repo/
+Homepage: http://eobsite1.github.io/repo/
+Maintainer: eobsite1 <eobsite1@gmail.com>
+Author: eobsite1 <eobsite1@gmail.com>
 Section: 
 Depends: 
 
