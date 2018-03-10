@@ -1,8 +1,8 @@
-Origin: Notex's Personal Repo
-Label: Notex's Personal Repo
+Origin: EOBSITEREPO
+Label: EOBSITEREPO
 Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm
 Components: main
-Codename: notexrepo64
-Description: Personal debs
+Codename: eobsiterepo64
+Description: DEB HELL

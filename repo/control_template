@@ -1,4 +1,4 @@
-Package: com.notex.tweakname
+Package: net.r-ch.tweakname
 Name: TweakName
 Version: 0.0
 Architecture: iphoneos-arm
