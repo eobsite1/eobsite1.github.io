@@ -1,0 +1,12 @@
+Package: com.notex.tweakname
+Name: TweakName
+Version: 0.0
+Architecture: iphoneos-arm
+Description: 
+Repo: http://notexe.github.io/repo/
+Homepage: http://notexe.github.io/repo/
+Maintainer: Notex <joshuadodd1107@gmail.com>
+Author: Notex <joshuadodd1107@gmail.com>
+Section: 
+Depends: 
+
