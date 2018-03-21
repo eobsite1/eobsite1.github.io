@@ -7,9 +7,11 @@
    font-style: Bold;
    position: fixed;
    top: 0px;
+   height: 70px;
   }
   
   .body {
+   margin-bottom: 70
    text-align: Center; 
    background-color: Black;
    color: Green;
