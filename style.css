@@ -23,3 +23,14 @@
    font-style: Italic;
    padding: 20px;
   }
+
+.foot {
+ position: absolute;
+ left: 0;
+ right: 0;
+ bottom: 0;
+ background-color: Grey;
+ font-family: Courier New;
+ font-style: Bold;
+ padding: 20px;
+}
