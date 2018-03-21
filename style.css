@@ -5,6 +5,8 @@
    font-family: Courier New;
    padding: 20px;
    font-style: Bold;
+   position: fixed;
+   top: 0px;
   }
   
   .body {
@@ -29,7 +31,7 @@
  left: 0;
  right: 0;
  bottom: 0;
- background-color: Grey;
+ background-color: Green;
  font-family: Courier New;
  font-style: Bold;
  padding: 0px;
