@@ -10,10 +10,9 @@
    text-align: Center; 
    background-color: Black;
    color: Green;
-   border-left-color: Green;
-   border-left-width: thin;
-   border-right-color: Green;
-   border-right-width: thin;
+   border-color: Green;
+   border-width: thin;
+   border-style: inset;
    font-family: Verdana;
   }
   
