@@ -8,11 +8,11 @@
    position: fixed;
    top: 0px;
    height: 70px;
-   width: 100%;
   }
 
   .subtitle {
-    text-align: Center;
+   margin-top: 70px; 
+   text-align: Center;
    background-color: Green;
    color: Black;
    font-family: Courier New;
@@ -21,7 +21,6 @@
   }  
   
   .body {
-   margin-bottom: 70
    text-align: Center; 
    background-color: Black;
    color: Green;
