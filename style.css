@@ -1,0 +1,24 @@
+  .title {
+   text-align: Center;
+   background-color: Green;
+   color: Black;
+   padding: 20px;
+   font-family: Courier New;
+  }
+  
+  .body {
+   text-align: Center; 
+   background-color: Black;
+   color: Green;
+   padding: 20px;
+   font-family: Verdana;
+  }
+  
+  h3 {
+   text-align: Center;
+   background-color: Green;
+   color: Black;
+   padding: 20px;
+   font-family: Courier New;
+   font-style: Italic;
+  }
