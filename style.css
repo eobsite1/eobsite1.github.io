@@ -17,7 +17,7 @@
    background-color: Green;
    color: Black;
    font-family: Courier New;
-   padding: 0px;
+   padding: 20px;
    font-style: Bold;
   }  
   
@@ -26,7 +26,7 @@
    background-color: Black;
    color: Green;
    font-family: Verdana;
-   padding: 0px;
+   padding: 20px;
    margin-bottom: 70px;
   }
   
@@ -36,7 +36,7 @@
    color: Black;
    font-family: Courier New;
    font-style: Italic;
-   padding: 0px;
+   padding: 20px;
   }
 
 .foot {
@@ -46,7 +46,7 @@
  background-color: Green;
  font-family: Courier New;
  font-style: Bold;
- padding: 0px;
+ padding: 20px;
  text-align: Center;
  height: 70px;
  position: fixed;
