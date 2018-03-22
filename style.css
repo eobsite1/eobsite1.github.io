@@ -1,9 +1,31 @@
 h1 {
-color: black;
-background-color: blue;
-top: 0;
-position: fixed;
-font-family: Courier New;
-padding: 10px;
-text-align: center;
+  color: black;
+  background-color: blue;
+  top: 0;
+  position: fixed;
+  font-family: Courier New;
+  padding: 10px;
+  text-align: Center;
+  height: 50px;
+  font-style: bold;
+  width: 100%;
+}
+
+head {
+  margin-top: 50px;
+  color: black;
+  background-color: blue;
+  text-align: Center;
+  padding: 10px;
+  font-family: Courier New;
+  font-style: italic;
+  width: 100%;
+}
+
+body {
+ color: blue;
+ background-color: black;
+ text-align: Center;
+ font-family: Verdana;
+ padding: 10px;
 }
