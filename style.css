@@ -1,18 +1,22 @@
-h1 {
+.index {
+ background-color: black; 
+ color: blue;
+}
+
+.index h1 {
   color: black;
   background-color: blue;
   top: 0;
   position: fixed;
   font-family: Courier New;
-  padding: 10px;
   text-align: Center;
-  height: 50px;
+  height: 70px;
   font-style: bold;
   width: 100%;
 }
 
-.header {
-  margin-top: 50px;
+.index .header {
+  margin-top: 70px;
   color: black;
   background-color: blue;
   text-align: Center;
@@ -22,7 +26,7 @@ h1 {
   width: 100%;
 }
 
-.body {
+.index .body {
  color: blue;
  background-color: black;
  text-align: Center;
