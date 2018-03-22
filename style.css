@@ -12,7 +12,6 @@
   text-align: Center;
   height: 70px;
   font-style: bold;
-  width: 100%;
 }
 
 .index .header {
@@ -20,10 +19,8 @@
   color: black;
   background-color: blue;
   text-align: Center;
-  padding: 10px;
   font-family: Courier New;
   font-style: italic;
-  width: 100%;
 }
 
 .index .body {
@@ -31,5 +28,4 @@
  background-color: black;
  text-align: Center;
  font-family: Verdana;
- padding: 10px;
 }
