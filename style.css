@@ -19,6 +19,7 @@
    font-family: Courier New;
    padding: 20px;
    font-style: Bold;
+   width: 100%;
   }  
   
   .body {
@@ -28,6 +29,7 @@
    font-family: Verdana;
    padding: 20px;
    margin-bottom: 70px;
+   width: 100%;
   }
   
   h3 {
@@ -50,4 +52,5 @@
  text-align: Center;
  height: 70px;
  position: fixed;
+ width: 100%;
 }
