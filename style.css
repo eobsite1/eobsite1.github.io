@@ -11,7 +11,7 @@ h1 {
   width: 100%;
 }
 
-head {
+.header {
   margin-top: 50px;
   color: black;
   background-color: blue;
@@ -22,7 +22,7 @@ head {
   width: 100%;
 }
 
-body {
+.body {
  color: blue;
  background-color: black;
  text-align: Center;
