@@ -6,10 +6,11 @@
   font-family: Courier New;
   text-align: Center;
   font-style: bold;
-  width: 90%;
+  width: 100%;
 }
 
 .body {
+ margin-top: 50px;
  color: blue;
  background-color: black;
  text-align: Center;
