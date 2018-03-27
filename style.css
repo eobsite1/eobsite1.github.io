@@ -1,4 +1,4 @@
-.headerer {
+.header {
   color: black;
   background-color: blue;
   top: 0;
@@ -7,17 +7,6 @@
   text-align: Center;
   font-style: bold;
   width: 100%;
-  padding: 20px;
-}
-
-.header {
-  margin-top: 70px;
-  color: black;
-  background-color: blue;
-  text-align: Center;
-  font-family: Courier New;
-  font-style: italic;
-  width: 100%
   padding: 20px;
 }
 
