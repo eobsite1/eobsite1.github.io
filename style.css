@@ -8,6 +8,7 @@
   height: 70px;
   font-style: bold;
   width: 100%;
+  padding: 20px;
 }
 
 .header {
@@ -17,6 +18,8 @@
   text-align: Center;
   font-family: Courier New;
   font-style: italic;
+  width: 100%
+  padding: 20px;
 }
 
 .body {
@@ -24,6 +27,8 @@
  background-color: black;
  text-align: Center;
  font-family: Verdana;
+ width: 100%
+ padding: 20px;
 }
 
 .body h3 {
@@ -32,4 +37,6 @@
  text-align: Center;
  font-family: Courier New;
  font-style: italic;
+ width: 100%
+ padding: 20px;
 }
