@@ -1,9 +1,4 @@
-.index {
- background-color: black; 
- color: blue;
-}
-
-.index .headerer {
+.headerer {
   color: black;
   background-color: blue;
   top: 0;
@@ -15,7 +10,7 @@
   width: 100%;
 }
 
-.index .header {
+.header {
   margin-top: 70px;
   color: black;
   background-color: blue;
@@ -24,14 +19,14 @@
   font-style: italic;
 }
 
-.index .body {
+.body {
  color: blue;
  background-color: black;
  text-align: Center;
  font-family: Verdana;
 }
 
-.index .body h3 {
+.body h3 {
  color: black;
  background-color: blue;
  text-align: Center;
